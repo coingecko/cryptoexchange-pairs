@@ -1,0 +1,853 @@
+:pairs:
+  - :base: LTC
+    :target: BTC
+  - :base: LTC
+    :target: USDT
+  - :base: LTC
+    :target: ETH
+  - :base: ETH
+    :target: BTC
+  - :base: ETH
+    :target: USDT
+  - :base: ETC
+    :target: BTC
+  - :base: ETC
+    :target: USDT
+  - :base: ETC
+    :target: ETH
+  - :base: ETC
+    :target: BCH
+  - :base: BCH
+    :target: BTC
+  - :base: BCH
+    :target: USDT
+  - :base: BCH
+    :target: ETH
+  - :base: BTC
+    :target: USDT
+  - :base: BT1
+    :target: BTC
+  - :base: BT2
+    :target: BTC
+  - :base: BTG
+    :target: BTC
+  - :base: BTG
+    :target: BCH
+  - :base: BTG
+    :target: USDT
+  - :base: QTUM
+    :target: BTC
+  - :base: QTUM
+    :target: USDT
+  - :base: QTUM
+    :target: ETH
+  - :base: HSR
+    :target: BTC
+  - :base: HSR
+    :target: USDT
+  - :base: HSR
+    :target: ETH
+  - :base: NEO
+    :target: BTC
+  - :base: NEO
+    :target: USDT
+  - :base: NEO
+    :target: ETH
+  - :base: GAS
+    :target: BTC
+  - :base: GAS
+    :target: USDT
+  - :base: GAS
+    :target: ETH
+  - :base: REF
+    :target: BTC
+  - :base: REF
+    :target: USDT
+  - :base: REF
+    :target: ETH
+  - :base: IPC
+    :target: BTC
+  - :base: IPC
+    :target: USDT
+  - :base: IPC
+    :target: ETH
+  - :base: STC
+    :target: BTC
+  - :base: STC
+    :target: USDT
+  - :base: STC
+    :target: ETH
+  - :base: TIO
+    :target: BTC
+  - :base: TIO
+    :target: USDT
+  - :base: TIO
+    :target: ETH
+  - :base: HOT
+    :target: BTC
+  - :base: HOT
+    :target: USDT
+  - :base: HOT
+    :target: ETH
+  - :base: SSC
+    :target: BTC
+  - :base: SSC
+    :target: USDT
+  - :base: SSC
+    :target: ETH
+  - :base: YEE
+    :target: BTC
+  - :base: YEE
+    :target: USDT
+  - :base: YEE
+    :target: ETH
+  - :base: MAG
+    :target: BTC
+  - :base: MAG
+    :target: USDT
+  - :base: MAG
+    :target: ETH
+  - :base: AAC
+    :target: BTC
+  - :base: AAC
+    :target: USDT
+  - :base: AAC
+    :target: ETH
+  - :base: VEE
+    :target: BTC
+  - :base: VEE
+    :target: USDT
+  - :base: VEE
+    :target: ETH
+  - :base: LIGHT
+    :target: BTC
+  - :base: LIGHT
+    :target: USDT
+  - :base: LIGHT
+    :target: ETH
+  - :base: UGC
+    :target: BTC
+  - :base: UGC
+    :target: USDT
+  - :base: UGC
+    :target: ETH
+  - :base: KCASH
+    :target: BTC
+  - :base: KCASH
+    :target: USDT
+  - :base: KCASH
+    :target: ETH
+  - :base: LEV
+    :target: BTC
+  - :base: LEV
+    :target: USDT
+  - :base: LEV
+    :target: ETH
+  - :base: TOPC
+    :target: BTC
+  - :base: TOPC
+    :target: USDT
+  - :base: TOPC
+    :target: ETH
+  - :base: IOST
+    :target: BTC
+  - :base: IOST
+    :target: USDT
+  - :base: IOST
+    :target: ETH
+  - :base: RNT
+    :target: BTC
+  - :base: RNT
+    :target: USDT
+  - :base: RNT
+    :target: ETH
+  - :base: MOF
+    :target: BTC
+  - :base: MOF
+    :target: USDT
+  - :base: MOF
+    :target: ETH
+  - :base: READ
+    :target: BTC
+  - :base: READ
+    :target: USDT
+  - :base: READ
+    :target: ETH
+  - :base: QUN
+    :target: BTC
+  - :base: QUN
+    :target: USDT
+  - :base: QUN
+    :target: ETH
+  - :base: THETA
+    :target: BTC
+  - :base: THETA
+    :target: USDT
+  - :base: THETA
+    :target: ETH
+  - :base: UBTC
+    :target: BTC
+  - :base: UBTC
+    :target: USDT
+  - :base: UBTC
+    :target: ETH
+  - :base: NANO
+    :target: BTC
+  - :base: NANO
+    :target: USDT
+  - :base: NANO
+    :target: ETH
+  - :base: ZEN
+    :target: BTC
+  - :base: ZEN
+    :target: USDT
+  - :base: ZEN
+    :target: ETH
+  - :base: SPF
+    :target: BTC
+  - :base: SPF
+    :target: USDT
+  - :base: SPF
+    :target: ETH
+  - :base: SOC
+    :target: BTC
+  - :base: SOC
+    :target: USDT
+  - :base: SOC
+    :target: ETH
+  - :base: HMC
+    :target: BTC
+  - :base: HMC
+    :target: USDT
+  - :base: HMC
+    :target: ETH
+  - :base: MOT
+    :target: BTC
+  - :base: MOT
+    :target: USDT
+  - :base: MOT
+    :target: ETH
+  - :base: SWFTC
+    :target: BTC
+  - :base: SWFTC
+    :target: USDT
+  - :base: SWFTC
+    :target: ETH
+  - :base: SWFTC
+    :target: CNY
+  - :base: RCT
+    :target: BTC
+  - :base: RCT
+    :target: USDT
+  - :base: RCT
+    :target: ETH
+  - :base: SHOW
+    :target: BTC
+  - :base: SHOW
+    :target: USDT
+  - :base: SHOW
+    :target: ETH
+  - :base: TCT
+    :target: BTC
+  - :base: TCT
+    :target: USDT
+  - :base: TCT
+    :target: ETH
+  - :base: FAIR
+    :target: BTC
+  - :base: FAIR
+    :target: USDT
+  - :base: FAIR
+    :target: ETH
+  - :base: AIDOC
+    :target: BTC
+  - :base: AIDOC
+    :target: USDT
+  - :base: AIDOC
+    :target: ETH
+  - :base: CAN
+    :target: BTC
+  - :base: CAN
+    :target: USDT
+  - :base: CAN
+    :target: ETH
+  - :base: EOS
+    :target: BTC
+  - :base: EOS
+    :target: USDT
+  - :base: EOS
+    :target: ETH
+  - :base: EOS
+    :target: BCH
+  - :base: XRP
+    :target: BTC
+  - :base: XRP
+    :target: USDT
+  - :base: XRP
+    :target: ETH
+  - :base: TRUE
+    :target: BTC
+  - :base: TRUE
+    :target: USDT
+  - :base: TRUE
+    :target: ETH
+  - :base: REQ
+    :target: BTC
+  - :base: REQ
+    :target: USDT
+  - :base: REQ
+    :target: ETH
+  - :base: BCD
+    :target: BTC
+  - :base: BCD
+    :target: USDT
+  - :base: BCD
+    :target: ETH
+  - :base: SNGLS
+    :target: BTC
+  - :base: SNGLS
+    :target: USDT
+  - :base: SNGLS
+    :target: ETH
+  - :base: ENG
+    :target: BTC
+  - :base: ENG
+    :target: USDT
+  - :base: ENG
+    :target: ETH
+  - :base: POE
+    :target: BTC
+  - :base: POE
+    :target: USDT
+  - :base: POE
+    :target: ETH
+  - :base: DPY
+    :target: BTC
+  - :base: DPY
+    :target: USDT
+  - :base: DPY
+    :target: ETH
+  - :base: PST
+    :target: BTC
+  - :base: PST
+    :target: USDT
+  - :base: PST
+    :target: ETH
+  - :base: SNC
+    :target: BTC
+  - :base: SNC
+    :target: USDT
+  - :base: SNC
+    :target: ETH
+  - :base: IOTA
+    :target: BTC
+  - :base: IOTA
+    :target: USDT
+  - :base: IOTA
+    :target: ETH
+  - :base: BTM
+    :target: BTC
+  - :base: BTM
+    :target: USDT
+  - :base: BTM
+    :target: ETH
+  - :base: VIB
+    :target: BTC
+  - :base: VIB
+    :target: USDT
+  - :base: VIB
+    :target: ETH
+  - :base: GNT
+    :target: BTC
+  - :base: GNT
+    :target: USDT
+  - :base: GNT
+    :target: ETH
+  - :base: EDO
+    :target: BTC
+  - :base: EDO
+    :target: USDT
+  - :base: EDO
+    :target: ETH
+  - :base: ELF
+    :target: BTC
+  - :base: ELF
+    :target: USDT
+  - :base: ELF
+    :target: ETH
+  - :base: AUTO
+    :target: BTC
+  - :base: AUTO
+    :target: USDT
+  - :base: AUTO
+    :target: ETH
+  - :base: XEM
+    :target: BTC
+  - :base: XEM
+    :target: USDT
+  - :base: XEM
+    :target: ETH
+  - :base: INS
+    :target: BTC
+  - :base: INS
+    :target: USDT
+  - :base: INS
+    :target: ETH    
+  - :base: RFR
+    :target: BTC
+  - :base: RFR
+    :target: USDT
+  - :base: RFR
+    :target: ETH
+  - :base: XMR
+    :target: BTC
+  - :base: XMR
+    :target: USDT
+  - :base: XMR
+    :target: ETH
+  - :base: XLM
+    :target: BTC
+  - :base: XLM
+    :target: USDT
+  - :base: XLM
+    :target: ETH
+  - :base: INT
+    :target: BTC
+  - :base: INT
+    :target: USDT
+  - :base: INT
+    :target: ETH
+  - :base: BKX
+    :target: BTC
+  - :base: BKX
+    :target: USDT
+  - :base: BKX
+    :target: ETH
+  - :base: NAS
+    :target: BTC
+  - :base: NAS
+    :target: USDT
+  - :base: NAS
+    :target: ETH
+  - :base: ACT
+    :target: BTC
+  - :base: ACT
+    :target: USDT
+  - :base: ACT
+    :target: ETH
+  - :base: OF
+    :target: BTC
+  - :base: OF
+    :target: USDT
+  - :base: OF
+    :target: ETH
+  - :base: MANA
+    :target: BTC
+  - :base: MANA
+    :target: USDT
+  - :base: MANA
+    :target: ETH
+  - :base: CHAT
+    :target: BTC
+  - :base: CHAT
+    :target: USDT
+  - :base: CHAT
+    :target: ETH
+  - :base: YOYO
+    :target: BTC
+  - :base: YOYO
+    :target: USDT
+  - :base: YOYO
+    :target: ETH
+  - :base: LRC
+    :target: BTC
+  - :base: LRC
+    :target: USDT
+  - :base: LRC
+    :target: ETH
+  - :base: ACE
+    :target: BTC
+  - :base: ACE
+    :target: USDT
+  - :base: ACE
+    :target: ETH
+  - :base: DADI
+    :target: BTC
+  - :base: DADI
+    :target: USDT
+  - :base: DADI
+    :target: ETH
+  - :base: AMM
+    :target: BTC
+  - :base: AMM
+    :target: USDT
+  - :base: AMM
+    :target: ETH
+  - :base: ABT
+    :target: BTC
+  - :base: ABT
+    :target: USDT
+  - :base: ABT
+    :target: ETH
+  - :base: ICX
+    :target: BTC
+  - :base: ICX
+    :target: USDT
+  - :base: ICX
+    :target: ETH
+  - :base: XUC
+    :target: BTC
+  - :base: XUC
+    :target: USDT
+  - :base: XUC
+    :target: ETH
+  - :base: WTC
+    :target: BTC
+  - :base: WTC
+    :target: USDT
+  - :base: WTC
+    :target: ETH
+  - :base: OMG
+    :target: BTC
+  - :base: OMG
+    :target: USDT
+  - :base: OMG
+    :target: ETH
+  - :base: BCX
+    :target: BTC
+  - :base: BCX
+    :target: USDT
+  - :base: BCX
+    :target: ETH
+  - :base: PRA
+    :target: BTC
+  - :base: PRA
+    :target: USDT
+  - :base: PRA
+    :target: ETH
+  - :base: ITC
+    :target: BTC
+  - :base: ITC
+    :target: USDT
+  - :base: ITC
+    :target: ETH
+  - :base: SMT
+    :target: BTC
+  - :base: SMT
+    :target: USDT
+  - :base: SMT
+    :target: ETH
+  - :base: TRX
+    :target: BTC
+  - :base: TRX
+    :target: USDT
+  - :base: TRX
+    :target: ETH
+  - :base: DASH
+    :target: BTC
+  - :base: DASH
+    :target: USDT
+  - :base: DASH
+    :target: ETH
+  - :base: DASH
+    :target: BCH
+  - :base: R
+    :target: BTC
+  - :base: R
+    :target: USDT
+  - :base: R
+    :target: ETH
+  - :base: 1ST
+    :target: BTC
+  - :base: 1ST
+    :target: USDT
+  - :base: 1ST
+    :target: ETH
+  - :base: WRC
+    :target: BTC
+  - :base: WRC
+    :target: USDT
+  - :base: WRC
+    :target: ETH
+  - :base: SBTC
+    :target: BTC
+  - :base: SBTC
+    :target: USDT
+  - :base: SBTC
+    :target: ETH
+  - :base: SNT
+    :target: BTC
+  - :base: SNT
+    :target: USDT
+  - :base: SNT
+    :target: ETH
+  - :base: NULS
+    :target: BTC
+  - :base: NULS
+    :target: USDT
+  - :base: NULS
+    :target: ETH
+  - :base: DGD
+    :target: BTC
+  - :base: DGD
+    :target: USDT
+  - :base: DGD
+    :target: ETH
+  - :base: GNX
+    :target: BTC
+  - :base: GNX
+    :target: USDT
+  - :base: GNX
+    :target: ETH
+  - :base: MCO
+    :target: BTC
+  - :base: MCO
+    :target: USDT
+  - :base: MCO
+    :target: ETH
+  - :base: CMT
+    :target: BTC
+  - :base: CMT
+    :target: USDT
+  - :base: CMT
+    :target: ETH
+  - :base: ZEC
+    :target: BTC
+  - :base: ZEC
+    :target: USDT
+  - :base: ZEC
+    :target: ETH
+  - :base: MTL
+    :target: BTC
+  - :base: MTL
+    :target: USDT
+  - :base: MTL
+    :target: ETH
+  - :base: ARK
+    :target: BTC
+  - :base: ARK
+    :target: USDT
+  - :base: ARK
+    :target: ETH
+  - :base: PPT
+    :target: BTC
+  - :base: PPT
+    :target: USDT
+  - :base: PPT
+    :target: ETH
+  - :base: AST
+    :target: BTC
+  - :base: AST
+    :target: USDT
+  - :base: AST
+    :target: ETH
+  - :base: OAX
+    :target: BTC
+  - :base: OAX
+    :target: USDT
+  - :base: OAX
+    :target: ETH
+  - :base: MTH
+    :target: BTC
+  - :base: MTH
+    :target: USDT
+  - :base: MTH
+    :target: ETH
+  - :base: DGB
+    :target: BTC
+  - :base: DGB
+    :target: USDT
+  - :base: DGB
+    :target: ETH
+  - :base: MKR
+    :target: BTC
+  - :base: MKR
+    :target: USDT
+  - :base: MKR
+    :target: ETH
+  - :base: EVX
+    :target: BTC
+  - :base: EVX
+    :target: USDT
+  - :base: EVX
+    :target: ETH
+  - :base: SALT
+    :target: BTC
+  - :base: SALT
+    :target: USDT
+  - :base: SALT
+    :target: ETH
+  - :base: GTO
+    :target: BTC
+  - :base: GTO
+    :target: USDT
+  - :base: GTO
+    :target: ETH
+  - :base: TNB
+    :target: BTC
+  - :base: TNB
+    :target: USDT
+  - :base: TNB
+    :target: ETH
+  - :base: MDT
+    :target: BTC
+  - :base: MDT
+    :target: USDT
+  - :base: MDT
+    :target: ETH
+  - :base: DAT
+    :target: BTC
+  - :base: DAT
+    :target: USDT
+  - :base: DAT
+    :target: ETH
+  - :base: STORJ
+    :target: BTC
+  - :base: STORJ
+    :target: USDT
+  - :base: STORJ
+    :target: ETH
+  - :base: REN
+    :target: BTC
+  - :base: REN
+    :target: USDT
+  - :base: REN
+    :target: ETH
+  - :base: LEND
+    :target: BTC
+  - :base: LEND
+    :target: USDT
+  - :base: LEND
+    :target: ETH
+  - :base: DNA
+    :target: BTC
+  - :base: DNA
+    :target: USDT
+  - :base: DNA
+    :target: ETH
+  - :base: KEY
+    :target: BTC
+  - :base: KEY
+    :target: USDT
+  - :base: KEY
+    :target: ETH
+  - :base: OST
+    :target: BTC
+  - :base: OST
+    :target: USDT
+  - :base: OST
+    :target: ETH
+  - :base: VIU
+    :target: BTC
+  - :base: VIU
+    :target: USDT
+  - :base: VIU
+    :target: ETH
+  - :base: RDN
+    :target: BTC
+  - :base: RDN
+    :target: USDT
+  - :base: RDN
+    :target: ETH
+  - :base: KNC
+    :target: BTC
+  - :base: KNC
+    :target: USDT
+  - :base: KNC
+    :target: ETH
+  - :base: SUB
+    :target: BTC
+  - :base: SUB
+    :target: USDT
+  - :base: SUB
+    :target: ETH
+  - :base: NGC
+    :target: BTC
+  - :base: NGC
+    :target: USDT
+  - :base: NGC
+    :target: ETH
+  - :base: GTC
+    :target: BTC
+  - :base: GTC
+    :target: USDT
+  - :base: GTC
+    :target: ETH
+  - :base: CVC
+    :target: BTC
+  - :base: CVC
+    :target: USDT
+  - :base: CVC
+    :target: ETH
+  - :base: CTR
+    :target: BTC
+  - :base: CTR
+    :target: USDT
+  - :base: CTR
+    :target: ETH
+  - :base: ZRX
+    :target: BTC
+  - :base: ZRX
+    :target: USDT
+  - :base: ZRX
+    :target: ETH
+  - :base: BRD
+    :target: BTC
+  - :base: BRD
+    :target: USDT
+  - :base: BRD
+    :target: ETH
+  - :base: QVT
+    :target: BTC
+  - :base: QVT
+    :target: USDT
+  - :base: QVT
+    :target: ETH
+  - :base: DNT
+    :target: BTC
+  - :base: DNT
+    :target: USDT
+  - :base: DNT
+    :target: ETH
+  - :base: ATL
+    :target: BTC
+  - :base: ATL
+    :target: USDT
+  - :base: ATL
+    :target: ETH
+  - :base: LA
+    :target: BTC
+  - :base: LA
+    :target: USDT
+  - :base: LA
+    :target: ETH
+  - :base: SAN
+    :target: BTC
+  - :base: SAN
+    :target: USDT
+  - :base: SAN
+    :target: ETH
+  - :base: AVT
+    :target: BTC
+  - :base: AVT
+    :target: USDT
+  - :base: AVT
+    :target: ETH
+  - :base: DENT
+    :target: BTC
+  - :base: DENT
+    :target: USDT
+  - :base: DENT
+    :target: ETH
+  - :base: PAY
+    :target: BTC
+  - :base: PAY
+    :target: USDT
+  - :base: PAY
+    :target: ETH
+  - :base: MDA
+    :target: BTC
+  - :base: MDA
+    :target: USDT
+  - :base: MDA
+    :target: ETH
